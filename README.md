@@ -1,4 +1,4 @@
-# Vue Element UI
+# Vue Element Admin
 
 - `Vue`: Vue
 - `Router`: Vue-Router
