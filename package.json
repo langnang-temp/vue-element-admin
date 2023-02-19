@@ -1,5 +1,5 @@
 {
-  "name": "vue-ui",
+  "name": "vue-element-admin",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
@@ -42,13 +42,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/langnang-temp/vue-ui.git"
+    "url": "git+https://github.com/langnang-temp/vue-element-admin.git"
   },
   "keywords": [],
   "author": "Langnang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/langnang-temp/vue-ui/issues"
+    "url": "https://github.com/langnang-temp/vue-element-admin/issues"
   },
-  "homepage": "https://github.com/langnang-temp/vue-ui#readme"
+  "homepage": "https://github.com/langnang-temp/vue-element-admin#readme"
 }
